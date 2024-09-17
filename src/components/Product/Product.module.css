@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    gap : 1rem;
+    align-items: center;
+    box-shadow: #000000 0px 0px 4px;
+}
+
+.img{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.kg{
+    font-size: 13px;
+}
+
+.prices{
+    display: flex;
+    gap: 60px;
+}
+
+.sacola{
+    margin: 5px;
+}

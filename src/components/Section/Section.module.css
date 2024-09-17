@@ -1,0 +1,33 @@
+.cliente{
+    margin: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.outros{
+    margin: 6px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.promo{
+    background-color: red;
+    width: fit-content;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.saudavel{
+    background-color: green;
+    width: fit-content;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.products{
+    display: flex;
+    justify-content: space-between;
+}
